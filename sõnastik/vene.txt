@@ -1,0 +1,21 @@
+ ввод/вывод sissend ja väljend
+ комманда käsk
+ язык программирования programmeerimiskeel
+ синткс süntaks
+ семантика/обозначение semantika tähendusõpetus
+ машинный язык masinkeel
+ язык ассемблера asemblekeel
+ машинная команда masinakäsk
+ переменная muutuja
+ целое число täisarv
+ число с плавающей запятой ujukomaarv
+ str sõne/tekst
+ boolean(true,false) tõeväärtus
+ коментарий kommentaar
+ ошибка viga
+ действие tehe
+ правдивый tõene
+ ложный väär
+ разветвление hargnemine
+ ветвь haru
+ отступ taane

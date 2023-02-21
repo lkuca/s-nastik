@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sõnastik", "sõnastik\sõnastik.pyproj", "{0F771EDC-461E-4E95-BACF-8EDD02E75A7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F771EDC-461E-4E95-BACF-8EDD02E75A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F771EDC-461E-4E95-BACF-8EDD02E75A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {700D72A4-0A15-485D-AB16-EC32A70A5217}
+	EndGlobalSection
+EndGlobal
