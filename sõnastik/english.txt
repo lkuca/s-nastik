@@ -1,22 +1,21 @@
-sisend ja väljund — ввод/вывод
-käsk — комманда
-programmeerimiskeel — язык программирования
-süntaks — синткс
-semantika/tähendusõpetus — семантика/обозначение
-masinakeel — машинный язык
-assemblerkeel — язык ассемблера
-masinkäsk — машинная команда
-muutuja — переменная
-täisarv — целое число
-ujukomaarv — число с плавающей запятой
-sõne/tekst — str
-tõeväärtus — boolean(true,false)
-kommentaar — коментарий
-viga — ошибка
-tehe — действие
-tõene — правдивый
-väär — ложный
-hargnemine — разветвление
-haru — ветвь
-taane — отступ
-avaldus — выражение
+sisend ja väljund
+käsk
+programmeerimiskeel
+süntaks
+semantika/tähendusõpetus
+masinakeel
+assemblerkeel
+masinkäsk
+muutuja
+täisarv
+ujukomaarv
+sõne/tekst
+tõeväärtus
+kommentaar
+viga
+tehe
+tõene
+väär
+hargnemine
+haru
+taane
